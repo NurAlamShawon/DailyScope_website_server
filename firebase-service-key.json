@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "parcelpilot-website",
+  "private_key_id": "067c6413b3d7e5d9c6a8010841009e88c6049f30",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCVawvbIrJslrQC\nA3KnGLrAJ9tq/Q47OAKoR82x4RHPNdZH3Nfv2XxZDAD2ntBv2P1CU+2vJcO11Aei\nA59j0COFWFmKCkn83XQ5DQZIZKvaYtSCN5+IbGYKttko71MYt+n4Y8pNlV1NUihR\neo1L/Xpga+DL/7wes12LbS3SS4Bbvx7yHWJ4DaiJvQeQxWwAqfxvFf0hk90FJ+Jb\nDnjY/96cb06C0dOh5YkLNLW9tFSD5GYMEt/OUsIjnWd1ZkGRkTtZLmroZzjmuRyb\nK3t9B7QtK1mPbGyC0Bl7zCfRUIuYWFOWgFF9JZaNW4zLMh6GNkU/vEZwEuw6VFed\nH7lBtp2ZAgMBAAECggEACeBAMZ0GvZItdjebn6tNBq/ruxPcWbIvTMeoMyJs/qzw\ni6HvfOk7ZJhcRPDE1qu5O6XX/zxoBe/sjDsgkSScAG+RRYQ+FTJfAPlZKbZLvJzN\nLok2KHp/uSQSUPgWnjrjwlj4MW4Ws2pjg1UuGzB3IwHmYx11ZfMVkwZlobF/W7D5\notRFNAGKt5kjpBP3F6fiLW8+EtvGCeTS00+1sKbz9eWtT8R+peRhpIJqDZ2+uWof\nOSiCVlIXcLjRVyKmUAMdIR96PwAm2dJMRZ424s/QnsbbXMsnjKSgc4lW5RfTRTgA\nMmdLFJihzH1FKzwRh3pbJ8+vYTAgOKHqv6DfLpeQoQKBgQDHjafUIx0m+HvBvsPN\nwH7oDY99lRUeHRrmsMCt/cPKLJ52qXcVLz3U0IwM5DZAudBEtXzgktO1Mt11fJaD\nrB1dziJerRjIUAqROA/o0xO07U5hLTLT1xWDkm8u6+TiScf4RxfUv0MaElm/T9i0\nvVLwqZ6C/ZjEaDIELp7etP/xKQKBgQC/ru3KPcm1o8LkJa79BdMfDxo6sW0Jepf4\nRh1zIf8oSbf62nlY4QUT3yvEE9Hjb/ZlQWKnypuJDu8SlRGNEkS2EO2tyyS5mz0G\nhhwPa1dUtxxNBMZCl0zGZGssusSZEST+k1Pkc45G7hjqZT9GrW3CxAQDyI3IGHQB\n0F0Fi8Sm8QKBgQCFx9Hbxi6lEbDmEp3yMjriFzU7W9bseVavkY+bFaVMxNz3cGUF\nLsalBareeaBlhCy742/0nnqP36nYOc4uOBT37lncXu9eW0q6UHtZ+ygbA3yoaUTK\nAEfMDT+8lSi9C/mj2QWA+zhhIixItZ7yjHouHYjHCHyCL9hYNWkMpQtxAQKBgCPK\nePITWW+GFWTeOG9cQBCDlGUzLeXgMzITfXo69dbC9Qxs8M2MrpMIT7a78KvkAwDj\nFZW4+hO8ax1wIifSKmxIeujBjqjteJaYQfMLGvJhgnJLGu3iLF6671wZv43JKrwy\nLC7y+LT7zkEuCIOc7Gq6iPlf4EFld3vDOStI7r4xAoGBAJxNMLWZK2h/YG0T+Uem\nFfOQE2U0A6UKZhgaymJIjZm4prbIQ0/O9scPrJwgRkCO9/eAcIbgdnwyuFCBjLSG\nSEx6KM+Y9eyJ711w58bocngAp7Lt/VmQOrPx4pgH0zKA23UyeUjQL8y2YpBhrHC7\nAE0cwxFzRndJnF4hpjya8rJy\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@parcelpilot-website.iam.gserviceaccount.com",
+  "client_id": "108171851573367235348",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40parcelpilot-website.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
